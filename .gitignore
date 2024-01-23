@@ -1,0 +1,7 @@
+credential.json
+__pycache__
+tmp/*
+!.gitkeep
+.env*
+!.env
+venv

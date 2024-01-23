@@ -1,0 +1,6 @@
+geopandas
+shapely
+google-cloud-bigquery
+folium
+selenium
+db_dtypes
